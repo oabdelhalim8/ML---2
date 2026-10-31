@@ -1,1 +1,1 @@
-ML project (stochastic gradient dissent - random forest) (mnist)
+ML project (stochastic gradient dissent - random forest - support vector machine) (mnist)
